@@ -9,15 +9,14 @@
 
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Mariela González López
-## 10A
-## Renderización del póster  de péliculas populares
-
+## 10 A
+## Incorporación de calificación y año de publicación de las peliculas
 &nbsp;
 &nbsp;
 |  Características |  Información |
 | :------------: | :------------: |
 | **Nombre**  |  **Practica 10.**  |
-| **Descripción**  | Aplicación desarrollada en Flutter que demuestra cómo crear una página de inicio interactiva para explorar películas y programas de televisión. |
+| **Descripción**  | Aplicación desarrollada en Flutter en la que se incorporo la calificación y el año de publicación de las peliculas. |
 |  **Fecha de Carga** | 06/10/23  |
 
 &nbsp;
